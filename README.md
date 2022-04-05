@@ -1,7 +1,7 @@
 # java-RealTime application- projects
 Real time applications using JAVA
 1. Cinema Ticket Manager 
-   Cinema has been a part of the entertainment industry 
+     Cinema has been a part of the entertainment industry 
 for a long time: a good movie is a way to escape reality
 and live through a variety of emotions. The best cinema
 experience you can get is probably in a cinema theatre. 
@@ -25,6 +25,8 @@ products:
       sugar, 
       and plastic cups; 
       
+      
+      
 if it runs out of something, it shows a notification. 
 You can get three types of coffee:
       espresso,
@@ -32,6 +34,8 @@ You can get three types of coffee:
       and latte. 
       
 Since nothing’s for free, it also collects the money
+
+
 
 3. Simple Tic-Tac-Toe 
    Everybody remembers this paper-and-pencil game 
